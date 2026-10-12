@@ -23,8 +23,8 @@ Google による情報の取り扱いは、Google のプライバシーポリシ
 ## 変更について
 内容を変更する場合は、このページでお知らせします。
 
-お問い合わせ: （連絡先メールアドレスを記入）
-制定日: （公開日を記入）
+お問い合わせ: honetanuki.works@gmail.com
+制定日: 2026年10月12日
 
 ---
 
@@ -53,5 +53,6 @@ Except for the advertising service above, we do not share your information with 
 ## Changes
 If this policy changes, we will announce it on this page.
 
-Contact: (enter your email address)
-Effective date: (enter the release date)
+Contact: honetanuki.works@gmail.com
+Effective date: 2026/10/12
+
